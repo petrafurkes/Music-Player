@@ -1,0 +1,12 @@
+Data structures and Algorithms module - MusicPlayer project
+
+Implement the data structure using any JAVA tool that allows a user to store the data for the music songs. 
+Two data items, such as song title and released year are stored in the data structure for the music player. 
+The data structure should store the data with the maximum of ten songs. 
+The new songs can be added or removed from the list. 
+When the music player is fully loaded (10 songs), the application displays information that you cannot add any more song in the list. 
+• It can add the data for the song title name and released year
+• It can remove the songs only from the top of the list
+• It will display list of all ten songs stored in the music player in descending order
+• The user can search a song from the list
+• The user can terminate the application
